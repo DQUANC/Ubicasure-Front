@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class UserModel {\n  constructor(_id, name, surname, username, email, password, phone) {\n    this._id = _id;\n    this.name = name;\n    this.surname = surname;\n    this.username = username;\n    this.email = email;\n    this.password = password;\n    this.phone = phone;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
